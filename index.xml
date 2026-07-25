@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>TTDSSB 的技术小站</title>
+		<link>https://ttdssb.github.io/cxesty/</link>
+		<description>Recent content on TTDSSB 的技术小站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://ttdssb.github.io/cxesty/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>关于我</title>
+				<link>https://ttdssb.github.io/cxesty/about/</link>
+				<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://ttdssb.github.io/cxesty/about/</guid>
+				<description>&lt;p&gt;你好！我是 TTDSSB。&lt;/p&gt;&#xA;&lt;p&gt;我正在学习编程，目前主要在学习 C 语言。&lt;/p&gt;&#xA;&lt;p&gt;这个博客用来记录我学习过程中的收获、思考和踩过的坑。&lt;/p&gt;&#xA;&lt;p&gt;欢迎交流！&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My First Post</title>
+				<link>https://ttdssb.github.io/cxesty/posts/my-first-post/</link>
+				<pubDate>Sat, 25 Jul 2026 00:21:56 +0800</pubDate>
+				<guid>https://ttdssb.github.io/cxesty/posts/my-first-post/</guid>
+				<description>&lt;p&gt;喵喵喵喵喵&#xA;喵喵喵喵喵&#xA;喵喵喵喵喵&#xA;喵喵喵喵喵&#xA;喵喵喵喵喵&#xA;喵喵喵喵喵&#xA;喵喵喵喵喵&#xA;喵喵喵喵喵&#xA;喵喵喵喵喵&#xA;喵喵喵喵喵&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
